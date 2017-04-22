@@ -1,0 +1,24 @@
+C:\Users\Dan\Desktop\Control drona\telecomanda\bin\Debug\telecomanda.exe.config
+C:\Users\Dan\Desktop\Control drona\telecomanda\bin\Debug\telecomanda.exe
+C:\Users\Dan\Desktop\Control drona\telecomanda\bin\Debug\telecomanda.pdb
+C:\Users\Dan\Desktop\Control drona\telecomanda\bin\Debug\SharpDX.dll
+C:\Users\Dan\Desktop\Control drona\telecomanda\bin\Debug\SlimDX.dll
+C:\Users\Dan\Desktop\Control drona\telecomanda\bin\Debug\SharpDX.xml
+C:\Users\Dan\Desktop\Control drona\telecomanda\obj\Debug\telecomanda.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\Control drona\telecomanda\obj\Debug\telecomanda.Properties.Resources.resources
+C:\Users\Dan\Desktop\Control drona\telecomanda\obj\Debug\telecomanda.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\Control drona\telecomanda\obj\Debug\telecomanda.exe
+C:\Users\Dan\Desktop\Control drona\telecomanda\obj\Debug\telecomanda.pdb
+C:\Users\Dan\Desktop\Control drona\telecomanda\obj\Debug\telecomanda.Form1.resources
+C:\Users\danut.costiuc\Desktop\telecomanda\bin\Debug\telecomanda.exe.config
+C:\Users\danut.costiuc\Desktop\telecomanda\obj\Debug\telecomanda.exe
+C:\Users\danut.costiuc\Desktop\telecomanda\obj\Debug\telecomanda.pdb
+C:\Users\danut.costiuc\Desktop\telecomanda\bin\Debug\telecomanda.exe
+C:\Users\danut.costiuc\Desktop\telecomanda\bin\Debug\telecomanda.pdb
+C:\Users\danut.costiuc\Desktop\telecomanda\bin\Debug\SharpDX.dll
+C:\Users\danut.costiuc\Desktop\telecomanda\bin\Debug\SlimDX.dll
+C:\Users\danut.costiuc\Desktop\telecomanda\bin\Debug\SharpDX.xml
+C:\Users\danut.costiuc\Desktop\telecomanda\obj\Debug\telecomanda.csprojResolveAssemblyReference.cache
+C:\Users\danut.costiuc\Desktop\telecomanda\obj\Debug\telecomanda.Form1.resources
+C:\Users\danut.costiuc\Desktop\telecomanda\obj\Debug\telecomanda.Properties.Resources.resources
+C:\Users\danut.costiuc\Desktop\telecomanda\obj\Debug\telecomanda.csproj.GenerateResource.Cache
